@@ -1,0 +1,10 @@
+<map id="HighFive::DataType" name="HighFive::DataType">
+<area shape="rect" id="node1" title="HDF5 Data Type." alt="" coords="182,187,329,214"/>
+<area shape="rect" id="node3" href="$class_high_five_1_1_atomic_type.html" title="create an HDF5 DataType from a C++ type" alt="" coords="377,5,577,33"/>
+<area shape="rect" id="node4" href="$class_high_five_1_1_atomic_type_3_01_fixed_len_string_array_3_01_str_len_01_4_01_4.html" title=" " alt="" coords="394,58,560,119"/>
+<area shape="rect" id="node5" href="$class_high_five_1_1_atomic_type_3_01char_0f_str_len_0e_4.html" title=" " alt="" coords="396,144,558,188"/>
+<area shape="rect" id="node6" href="$class_high_five_1_1_atomic_type_3_01std_1_1complex_3_01_t_01_4_01_4.html" title=" " alt="" coords="391,213,564,258"/>
+<area shape="rect" id="node7" href="$class_high_five_1_1_compound_type.html" title="Create a compound HDF5 datatype." alt="" coords="384,281,570,309"/>
+<area shape="rect" id="node8" href="$class_high_five_1_1_enum_type.html" title="Create a enum HDF5 datatype." alt="" coords="382,333,573,361"/>
+<area shape="rect" id="node2" href="$class_high_five_1_1_object.html" title=" " alt="" coords="5,187,134,214"/>
+</map>
