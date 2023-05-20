@@ -57,7 +57,7 @@ if(NOT TARGET libdeps)
 
   # Half
   if(HIGHFIVE_USE_HALF_FLOAT)
-    find_file(FOUND_HALF half.hpp)
+    find_file(FOUND_HALF half.hpp PATHS ${HALF_INCLUDE_PATH})
     if (NOT FOUND_HALF)
       message(FATAL_ERROR "Half-precision floating-point support requested but file half.hpp not found")
     endif()
